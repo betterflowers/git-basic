@@ -1,5 +1,1 @@
-Hello,welcome to my home!
-
-Today is Children's day!
-
-This is an online modification!
+  In order to commit a change it must first be staged using git add command. Basically git commit "records changes to the repository" while git push "updates remote refs along with associated objects". So the first one is used in connection with your local repository, while the latter one is used to interact with a remote repository.
